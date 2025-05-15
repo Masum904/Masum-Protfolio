@@ -57,7 +57,7 @@ A real-time chat app for Android using Firebase Realtime Database and XML UI des
 📍 _Accepted at Springer MIET 2024, NSTU, Bangladesh_
 
 📄 **Volcano Detection on Venus**  
-📍 _Accepted_
+📍 _Accepted_ at IEEE, Central Michigan University, 2025
 
 ---
 
