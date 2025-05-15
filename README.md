@@ -1,53 +1,70 @@
 # 👋 Hi, I'm Masum Billal
 
-🎓 Master's Student at USTC | 🤖 Deep Learning & NLP | 💻 Java, Python, Blockchain
+🎓 A passionate Master's student in Software Engineering at USTC (University of Science and Technology of China) with a deep interest in **Artificial Intelligence**, **NLP**, and **Blockchain Technologies**. I love building intelligent systems that solve real-world problems using deep learning and advanced algorithms.
 
-## 🛠️ Skills
+---
 
-**Languages**: Python, Java, Solidity  
-**Frameworks**: TensorFlow, PyTorch, Spring, LangChain  
-**Fields**: Computer Vision, NLP, Blockchain, Web and Android Development
+## 🛠️ Technical Skills
 
-## 📌 Featured Projects
+- **Languages:** Python, Java, Solidity, C  
+- **AI Frameworks:** TensorFlow, PyTorch, Scikit-learn  
+- **Web Development:** Spring Boot, JSP, HTML/CSS, JavaScript  
+- **Mobile Development:** Android (Java, Firebase)  
+- **Tools & Tech:** Docker, Maven, LangChain, Hugging Face  
+- **Specializations:** NLP, Computer Vision, Blockchain, Cryptography
 
-- **WeatherSense** – AI-powered weather assistant using LangChain + OpenWeather
-- **Fake News Detection** – CNN-based NLP solution for detecting fake news
-- **Story Generator** – Story generation pipeline using OpenAI API
-- **YOLOv11 Object Detection** – Advanced object detection with Swin Transformer
-- **MyMall** – Spring Boot-based e-commerce web app
-- **Cat Talk** – Real-time chat Android app with Firebase
+---
 
+## 🚀 Projects
 
-# 🧠 Research Publications
+🔹 **WeatherSense**  
+AI-powered weather assistant using LangChain and OpenWeather API.  
 
-## 📘 Journal & Conference Publications
+🔹 **Fake News Detection**  
+Deep learning-based classifier to detect fake news using a CNN model.  
 
-### 1. [Resource Constraint Crop Damage Classification Using Depth Channel Shuffling](https://doi.org/10.1016/j.engappai.2025.110117)
-- **Journal**: Engineering Applications of Artificial Intelligence
-- **Keywords**: Crop classification, Depth channel, CNN, Resource constraints
+🔹 **Story Generator**  
+Dynamic story generation using LangChain’s SequentialChain with OpenAI API.  
 
-### 2. [Bone Fracture Detection Using CNN Model](https://doi.org/10.1007/978-3-031-82156-1_1)
-- **Conference**: Springer Conference
-- **Summary**: CNN-based model for automatic bone fracture detection in medical images.
+🔹 **YOLOv11 + Swin Transformer**  
+Object detection pipeline using PyTorch, YOLOv11, and the Swin Transformer on the COCO dataset.  
 
-### 3. Sugercane Leaf Disease Detection: A Comparative Analysis Using Deep Learning
-- **Conference**: ACM, 3rd International Conference on Computing Advancements (ICCA 2024), AIUB, Dhaka, Bangladesh
-- **Status**: Accepted
+🔹 **MyMall**  
+A fully-featured e-commerce web application built with Java Spring Boot, MySQL, and Bootstrap.  
 
-### 4. Human and AI Written Text Detection Using Deep Learning
-- **Conference**: IEEE, 27th ICCIT, Cox’s Bazar, Bangladesh – 2024
-- **Status**: Accepted
+🔹 **Cat Talk**  
+A real-time chat app for Android using Firebase Realtime Database and XML UI design.
 
-### 5. A Novel Feature Selection Pipeline for Thyroid Cancer Recurrence Prediction
-- **Conference**: Springer, 2nd MIET 2024 at NSTU, Bangladesh
-- **Status**: Accepted
+---
 
-### 6. An Ensemble Method for Volcano Detection on Venus Using Magellan Spacecraft Radar Images
-- **Status**: Accepted
+## 🧠 Research Highlights
 
+📄 **Crop Damage Classification using Depth Channel Shuffling**  
+📍 _Published in Engineering Applications of Artificial Intelligence (Elsevier)_  
+🔗 [DOI](https://doi.org/10.1016/j.engappai.2025.110117)
 
-## 🔗 Connect with Me
+📄 **Bone Fracture Detection using CNNs**  
+📍 _Published in Springer Lecture Notes_  
+🔗 [DOI](https://doi.org/10.1007/978-3-031-82156-1_1)
 
-📧 billalmasum342@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/billalmasum342)  
-📍 Hefei, China
+📄 **Sugarcane Leaf Disease Detection**  
+📍 _Accepted at ACM ICCA 2024, AIUB, Bangladesh_
+
+📄 **Human vs AI Text Detection**  
+📍 _Accepted at IEEE ICCIT 2024, Cox’s Bazar, Bangladesh_
+
+📄 **Thyroid Cancer Recurrence Prediction using Feature Selection**  
+📍 _Accepted at Springer MIET 2024, NSTU, Bangladesh_
+
+📄 **Volcano Detection on Venus**  
+📍 _Accepted_
+
+---
+
+## 🌐 Let's Connect
+
+📧 **Email:** billalmasum342@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/billalmasum342](https://linkedin.com/in/billalmasum342)  
+📍 **Location:** Hefei, China  
+
+I’m currently open to internship opportunities and collaborative research — feel free to reach out!
