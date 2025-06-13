@@ -49,12 +49,10 @@ A real-time chat app for Android using Firebase Realtime Database and XML UI des
 
 📄 **Sugarcane Leaf Disease Detection**  
 📍 published in the ACM Digital Library.
-
 🔗 [DOI](https://doi.org/10.1145/3723178.3723197)
 
 📄 **Human vs AI Text Detection**  
-📍 Published in IEEE Conference
-
+📍 Published in IEEE Conference.
 🔗 [DOI](https://doi.org/10.1109/ICCIT64611.2024.11022524)
 
 📄 **Thyroid Cancer Recurrence Prediction using Feature Selection**  
