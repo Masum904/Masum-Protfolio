@@ -16,6 +16,14 @@
 ---
 
 ## 🚀 Projects
+🔹 **ScholarRAG**
+AI-powered research assistant using FAISS and DeepSeek API for intelligent question answering and summarization from research paper.
+
+🔹 **AgenticSummarizer**
+Autonomous video summarization system using Gemini and PhiData, leveraging agentic AI for multimodal understanding and concise summarization.
+
+🔹 **MediRAG**
+AI-driven medical question answering system using ChromaDB and DeepSeek API, enabling precise information retrieval from a custom medical Q&A dataset.
 
 🔹 **WeatherSense**  
 AI-powered weather assistant using LangChain and OpenWeather API.  
@@ -29,8 +37,14 @@ Dynamic story generation using LangChain’s SequentialChain with OpenAI API.
 🔹 **YOLOv11 + Swin Transformer**  
 Object detection pipeline using PyTorch, YOLOv11, and the Swin Transformer on the COCO dataset.  
 
+🔹 **FaceMoodNet**
+Facial expression recognition system using a custom CNN model, trained on a large-scale, complex dataset for accurate emotion classification.
+
 🔹 **MyMall**  
 A fully-featured e-commerce web application built with Java Spring Boot, MySQL, and Bootstrap.  
+
+🔹 **MasumMall**
+A full-featured mobile e-commerce application with user authentication, product catalog, cart, order management, and secure checkout — designed for a smooth and intuitive shopping experience.
 
 🔹 **Cat Talk**  
 A real-time chat app for Android using Firebase Realtime Database and XML UI design.
