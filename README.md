@@ -48,10 +48,10 @@ A real-time chat app for Android using Firebase Realtime Database and XML UI des
 🔗 [DOI](https://doi.org/10.1007/978-3-031-82156-1_1)
 
 📄 **Sugarcane Leaf Disease Detection**  
-📍 _Accepted at ACM ICCA 2024, AIUB, Bangladesh_
+📍 🔗 [DOI](https://doi.org/10.1145/3723178.3723197)
 
 📄 **Human vs AI Text Detection**  
-📍 _Accepted at IEEE ICCIT 2024, Cox’s Bazar, Bangladesh_
+📍 🔗 [DOI](https://doi.org/10.1109/ICCIT64611.2024.11022524)
 
 📄 **Thyroid Cancer Recurrence Prediction using Feature Selection**  
 📍 _Accepted at Springer MIET 2024, NSTU, Bangladesh_
