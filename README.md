@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Projects
-🔹 **ScholarRAG**
+🔹 **ScholarRAG**  
 AI-powered research assistant using FAISS and DeepSeek API for intelligent question answering and summarization from research paper.
 
 🔹 **AgenticSummarizer**
