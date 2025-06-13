@@ -37,7 +37,7 @@ Dynamic story generation using LangChain’s SequentialChain with OpenAI API.
 🔹 **YOLOv11 + Swin Transformer**  
 Object detection pipeline using PyTorch, YOLOv11, and the Swin Transformer on the COCO dataset.  
 
-🔹 **FaceMoodNet*  
+🔹 **FaceMoodNet**  
 Facial expression recognition system using a custom CNN model, trained on a large-scale, complex dataset for accurate emotion classification.
 
 🔹 **MyMall**  
