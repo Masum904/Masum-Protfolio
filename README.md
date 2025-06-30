@@ -16,6 +16,12 @@
 ---
 
 ## 🚀 Projects
+🔹 **DressMind**  
+AI-powered intelligent clothing system. Generates stylish outfit combinations based on user activities using DALL·E 3 and OpenAI models.
+
+🔹 **HealthMate**  
+AI-powered medical consultation assistant system. Uses OpenAI GPT models and multi-turn questioning to generate preliminary health advice and possible diagnoses based on user-reported symptoms.
+
 🔹 **ScholarRAG**  
 AI-powered research assistant using FAISS and DeepSeek API for intelligent question answering and summarization from research paper.
 
