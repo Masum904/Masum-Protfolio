@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Masum Billal
 
-🎓 A passionate Master's student in Software Engineering at USTC (University of Science and Technology of China) with a deep interest in **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, **NLP**, **Agentic AI**, **RAG**, **Prompt Engineering**, **Web Application**, **Mobile Application**, and **Blockchain Technologies**. I love building intelligent systems that solve real-world problems using deep learning and advanced algorithms.
+🎓 A passionate Master's student in Software Engineering at USTC (University of Science and Technology of China) with a deep interest in **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, **Algorithm Design and Analysis**, **NLP**, **Agentic AI**, **RAG**, **Prompt Engineering**, **Web Application**, **Mobile Application**, and **Blockchain Technologies**. I love building intelligent systems that solve real-world problems using deep learning and advanced algorithms.
 
 ---
 
@@ -10,8 +10,8 @@
 - **AI Frameworks:** TensorFlow, PyTorch, Scikit-learn  
 - **Web Development:** Spring Boot, JSP, HTML/CSS, JavaScript  
 - **Mobile Development:** Android (Java, Firebase)  
-- **Tools & Tech:** Docker, Maven, LangChain, Hugging Face  
-- **Specializations:** NLP, Computer Vision, Blockchain, Cryptography
+- **Tools & Tech:** Docker, Maven, LangChain, Hugging Face, Prompt Engineering  
+- **Specializations:** NLP, Computer Vision, Deep Learning, Machine Learning, Web Application, Android Application, Blockchain, Cryptography
 
 ---
 
