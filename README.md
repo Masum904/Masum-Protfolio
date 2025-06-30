@@ -55,6 +55,12 @@ A full-featured mobile e-commerce application with user authentication, product 
 🔹 **Cat Talk**  
 A real-time chat app for Android using Firebase Realtime Database and XML UI design.
 
+🔹 **My Blog**  
+Web application built using JSP, Servlets, HTML, CSS, JavaScript, MySQL. Allows users to post blogs, read others' blogs, and engage through comments and likes.
+
+🔹 **Smart Contract**  
+Web-based contract management system. Users can add, delete, update, and manage contract numbers efficiently.
+
 ---
 
 ## 🧠 Research Highlights
